@@ -1,3 +1,4 @@
+[![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=amolambekar-space-game-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=amolambekar-space-game-web)
 
 # Contributing
 
